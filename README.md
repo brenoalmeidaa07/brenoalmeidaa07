@@ -12,7 +12,7 @@ Throughout my career, I have worked on projects in the medical, financial, and b
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages ​​and Technologies
 
 <img 
   align="left" 
@@ -127,19 +127,19 @@ Throughout my career, I have worked on projects in the medical, financial, and b
 <br/>
 
 ---
-## 📊 Estatísticas
+## 📊 Statistics
 
 <table>
   <tr>
     <td>
-      <h3>Estatísticas do GitHub de Breno Almeida</h3>
+      <h3>Statistics GitHub de Breno Almeida</h3>
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brenoalmeidaa07&theme=tokyonight" 
         alt="Estatísticas do GitHub de Breno Almeida" 
       />
     </td>
     <td>
-      <h3>Tecnologias mais usadas</h3>
+      <h3>Most used technologies</h3>
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brenoalmeidaa07&theme=tokyonight" 
         alt="Tecnologias mais usadas por Breno Almeida" 
