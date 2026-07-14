@@ -6,11 +6,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
 
-Sou **Desenvolvedor Full Stack**, com atuação em **backend** e **frontend**, com foco na criação de soluções **seguras, escaláveis e alinhadas às necessidades do negócio**.
-
-Possuo experiência com tecnologias como **Node.js, TypeScript, Java, Python, React, React Native, Next.js, Angular, Vue, bancos de dados SQL/PostgreSQL e Git**.
-
-Ao longo da minha trajetória, atuei em projetos nas áreas **médica, financeira e backoffice**, contribuindo com **desenvolvimento de sistemas, correção de bugs, refatoração de código e suporte a ambientes de produção**.
+Full Stack Developer. I work across both backend and frontend, focusing on creating secure, scalable solutions aligned with business needs.
+I have experience with technologies such as Node.js, TypeScript, Java, Python, React, React Native, Next.js, Angular, Vue, SQL/PostgreSQL databases, and Git.
+Throughout my career, I have worked on projects in the medical, financial, and back-office sectors, contributing to system development, bug fixing, code refactoring, and production environment support
 
 ---
 
